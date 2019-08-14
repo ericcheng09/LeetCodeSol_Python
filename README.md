@@ -14,6 +14,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 476  | Number Complement | Easy |
 |  507  | Perfect Number | Easy |
 | 557  | Reverse Words in a String III | Easy |
+| 595|  Big Countries  | Easy |
 |  561 |  Array Partition I | Easy |
 |  657  | Robot Return to Origin | Easy |
 |  682 |  Baseball Game | Easy |
