@@ -22,6 +22,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 709 | To Lower Case | Easy |
 | 771 | Jewels and Stones | Easy |
 | 804 | Unique Morse Code Words | Easy |
+| 832 | Flipping an Image | Easy |
 | 938  | Range Sum of BST | Easy |
 | 1021  | Remove Outermost Parentheses | Easy |
 | 1108  | Defanging an IP Address | Easy |
