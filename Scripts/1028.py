@@ -28,20 +28,21 @@ class Solution(object):
         
         # Iterative version by myself
         def iterative():
-            parentMap = dict()
-            parentMap[1] = TreeNode(nodes[0][1])
-            level = 1
+            parentMap = dict() # record the parent of each level 
+            parentMap[1] = TreeNode(nodes[0][1]) 
+            level = 1 
             for node in nodes[1:]:
                 if node[0] == level and parentMap[level].left == None:
                     parent = parentMap.get(level)
                     parent.left = TreeNode(node[1])
-                    level += 1
+                    level += 1 # next level to construct
                     parentMap[level] = parent.left
                 elif node[0] == level and parentMap[level].left != None:
                     parent.right = TreeNode(node[1])
-                    level += 1
+                    level += 1 # next level to construct
                     parentMap[level] = parent.right
-                elif node[0] < level:
+                elif node[0] < level: 
+                    # if the level of node is smaller than level expect to construct -> no deeper node in the left of this subtree
                     for k, v in parentMap.items():
                         if k > node[0]:
                             parentMap[k] == None
