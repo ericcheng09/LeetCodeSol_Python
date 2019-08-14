@@ -34,3 +34,5 @@ This repository includes the solutions (In Python) for LeeCode problems
 |  739|  Daily Temperatures  | Medium |
 | 807  | Max Increase to Keep City Skyline  | Medium |
 |  1038  | Binary Search Tree to Greater Sum Tree | Medium |
+| | | 
+|  1028  |  Recover a Tree From Preorder Traversal | Hard |
