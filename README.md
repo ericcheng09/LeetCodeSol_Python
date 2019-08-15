@@ -23,7 +23,9 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 771 | Jewels and Stones | Easy |
 | 804 | Unique Morse Code Words | Easy |
 | 832 | Flipping an Image | Easy |
+| 905  | Sort Array By Parity | Easy |
 | 938  | Range Sum of BST | Easy |
+| 961  | N-Repeated Element in Size 2N Array | Easy |
 | 1021  | Remove Outermost Parentheses | Easy |
 | 1108  | Defanging an IP Address | Easy |
 | | | 
@@ -35,6 +37,8 @@ This repository includes the solutions (In Python) for LeeCode problems
 |  701 |  Insert into a Binary Search Tree | Medium |
 |  739|  Daily Temperatures  | Medium |
 | 807  | Max Increase to Keep City Skyline  | Medium |
+|  1008  | Construct Binary Search Tree from Preorder Traversal | Medium |
 |  1038  | Binary Search Tree to Greater Sum Tree | Medium |
+| 1079 | Letter Tile Possibilities | Medium |
 | | | 
 |  1028  |  Recover a Tree From Preorder Traversal | Hard |
