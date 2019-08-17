@@ -39,6 +39,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 |  739|  Daily Temperatures  | Medium |
 |  763|   Partition Labels  | Medium |
 | 807  | Max Increase to Keep City Skyline  | Medium |
+| 814  |  Binary Tree Pruning | Medium |
 | 890  | Find and Replace Pattern  | Medium |
 | 950  | Reveal Cards In Increasing Order  | Medium |
 |  1008  | Construct Binary Search Tree from Preorder Traversal | Medium |
