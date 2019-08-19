@@ -16,6 +16,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 557  | Reverse Words in a String III | Easy |
 | 595|  Big Countries  | Easy |
 |  561 |  Array Partition I | Easy |
+|  617 |  Merge Two Binary Trees | Easy |
 |  657  | Robot Return to Origin | Easy |
 |  682 |  Baseball Game | Easy |
 | 728   | Self Dividing Numbers | Easy |
@@ -23,12 +24,15 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 771 | Jewels and Stones | Easy |
 | 804 | Unique Morse Code Words | Easy |
 | 832 | Flipping an Image | Easy |
+| 852 | Peak Index in a Mountain Array | Easy |
 | 905  | Sort Array By Parity | Easy |
 | 938  | Range Sum of BST | Easy |
 | 961  | N-Repeated Element in Size 2N Array | Easy |
 | 977  | Squares of a Sorted Array | Easy |
 | 1021  | Remove Outermost Parentheses | Easy |
+| 1025  | Divisor Game | Easy |
 | 1108  | Defanging an IP Address | Easy |
+| 1160  | Find Words That Can Be Formed by Characters | Easy |
 | | | 
 | 137 | Single Number II | Medium |
 | 260 | Single Number III | Medium |
@@ -41,9 +45,11 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 807  | Max Increase to Keep City Skyline  | Medium |
 | 814  |  Binary Tree Pruning | Medium |
 | 890  | Find and Replace Pattern  | Medium |
+| 894  | All Possible Full Binary Trees  | Medium |
 | 950  | Reveal Cards In Increasing Order  | Medium |
 |  1008  | Construct Binary Search Tree from Preorder Traversal | Medium |
 |  1038  | Binary Search Tree to Greater Sum Tree | Medium |
 | 1079 | Letter Tile Possibilities | Medium |
+| 1161 | Maximum Level Sum of a Binary Tree | Medium |
 | | | 
 |  1028  |  Recover a Tree From Preorder Traversal | Hard |
