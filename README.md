@@ -26,7 +26,11 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 832 | Flipping an Image | Easy |
 | 852 | Peak Index in a Mountain Array | Easy |
 | 905  | Sort Array By Parity | Easy |
+| 929  | Unique Email Addresses | Easy |
+| 933  | Number of Recent Calls | Easy |
 | 938  | Range Sum of BST | Easy |
+| 942  | DI String Match | Easy |
+| 944  | Delete Columns to Make Sorted | Easy |
 | 961  | N-Repeated Element in Size 2N Array | Easy |
 | 977  | Squares of a Sorted Array | Easy |
 | 1021  | Remove Outermost Parentheses | Easy |
@@ -42,14 +46,17 @@ This repository includes the solutions (In Python) for LeeCode problems
 |  701 |  Insert into a Binary Search Tree | Medium |
 |  739|  Daily Temperatures  | Medium |
 |  763|   Partition Labels  | Medium |
+|  797 |   All Paths From Source to Target  | Medium |
 | 807  | Max Increase to Keep City Skyline  | Medium |
 | 814  |  Binary Tree Pruning | Medium |
 | 890  | Find and Replace Pattern  | Medium |
 | 894  | All Possible Full Binary Trees  | Medium |
+| 921  | Minimum Add to Make Parentheses Valid  | Medium |
 | 950  | Reveal Cards In Increasing Order  | Medium |
 |  1008  | Construct Binary Search Tree from Preorder Traversal | Medium |
 |  1038  | Binary Search Tree to Greater Sum Tree | Medium |
 | 1079 | Letter Tile Possibilities | Medium |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium |
 | | | 
+| 980 | Unique Paths III | Hard |
 |  1028  |  Recover a Tree From Preorder Traversal | Hard |
