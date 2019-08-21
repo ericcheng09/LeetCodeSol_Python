@@ -19,13 +19,15 @@ This repository includes the solutions (In Python) for LeeCode problems
 |  617 |  Merge Two Binary Trees | Easy |
 |  657  | Robot Return to Origin | Easy |
 |  682 |  Baseball Game | Easy |
-| 728   | Self Dividing Numbers | Easy |
+| 700 | Search in a Binary Search Tree | Easy |
 | 709 | To Lower Case | Easy |
+| 728   | Self Dividing Numbers | Easy |
 | 771 | Jewels and Stones | Easy |
 | 804 | Unique Morse Code Words | Easy |
 | 832 | Flipping an Image | Easy |
 | 852 | Peak Index in a Mountain Array | Easy |
 | 905  | Sort Array By Parity | Easy |
+| 922 | Sort Array By Parity II | Easy |
 | 929  | Unique Email Addresses | Easy |
 | 933  | Number of Recent Calls | Easy |
 | 938  | Range Sum of BST | Easy |
@@ -35,6 +37,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 977  | Squares of a Sorted Array | Easy |
 | 1021  | Remove Outermost Parentheses | Easy |
 | 1025  | Divisor Game | Easy |
+| 1051  | Height Checker | Easy |
 | 1108  | Defanging an IP Address | Easy |
 | 1160  | Find Words That Can Be Formed by Characters | Easy |
 | | | 
