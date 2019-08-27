@@ -31,6 +31,8 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 811 | Subdomain Visit Count | Easy |
 | 832 | Flipping an Image | Easy |
 | 852 | Peak Index in a Mountain Array | Easy |
+| 883 | Projection Area of 3D Shapes | Easy |
+| 897 | Increasing Order Search Tree | Easy |
 | 905  | Sort Array By Parity | Easy |
 | 922 | Sort Array By Parity II | Easy |
 | 929  | Unique Email Addresses | Easy |
@@ -42,20 +44,22 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 965  | Univalued Binary Tree | Easy |
 | 977  | Squares of a Sorted Array | Easy |
 | 999  | Available Captures for Rook | Easy |
+| 1002  | Find Common Characters | Easy |
 | 1021  | Remove Outermost Parentheses | Easy |
 | 1025  | Divisor Game | Easy |
 | 1051  | Height Checker | Easy |
+| 1078  | Occurrences After Bigram | Easy |
 | 1108  | Defanging an IP Address | Easy |
 | 1122  | Relative Sort Array | Easy |
 | 1160  | Find Words That Can Be Formed by Characters | Easy |
 | | | 
 | 137 | Single Number II | Medium |
 | 260 | Single Number III | Medium |
+| 338 | Counting Bits | Medium |
 | 419 |  Battleships in a Board | Medium |
 |  525 | Contiguous Array | Medium |
 |  535 | Encode and Decode TinyURL | Medium |
 |  537 |  Complex Number Multiplication | Medium |
-
 | 654 | Maximum Binary Tree | Medium |
 |  701 |  Insert into a Binary Search Tree | Medium |
 |  739|  Daily Temperatures  | Medium |
