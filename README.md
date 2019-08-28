@@ -21,6 +21,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 590  | N-ary Tree Postorder Traversal | Easy |
 | 595|  Big Countries  | Easy |
 |  617 |  Merge Two Binary Trees | Easy |
+|  628 |   Maximum Product of Three Numbers | Easy |
 |  657  | Robot Return to Origin | Easy |
 |  682 |  Baseball Game | Easy |
 | 700 | Search in a Binary Search Tree | Easy |
@@ -30,10 +31,12 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 804 | Unique Morse Code Words | Easy |
 | 811 | Subdomain Visit Count | Easy |
 | 832 | Flipping an Image | Easy |
+| 876 | Middle of the Linked List | Easy |
 | 852 | Peak Index in a Mountain Array | Easy |
 | 883 | Projection Area of 3D Shapes | Easy |
 | 897 | Increasing Order Search Tree | Easy |
 | 905  | Sort Array By Parity | Easy |
+| 908  | Smallest Range I | Easy |
 | 922 | Sort Array By Parity II | Easy |
 | 929  | Unique Email Addresses | Easy |
 | 933  | Number of Recent Calls | Easy |
@@ -72,8 +75,11 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 894  | All Possible Full Binary Trees  | Medium |
 | 921  | Minimum Add to Make Parentheses Valid  | Medium |
 | 950  | Reveal Cards In Increasing Order  | Medium |
+| 951  | Flip Equivalent Binary Trees  | Medium |
 | 979  | Distribute Coins in Binary Tree  | Medium |
 |  1008  | Construct Binary Search Tree from Preorder Traversal | Medium |
+| 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings  | Medium |
+| 1123 |  Lowest Common Ancestor of Deepest Leaves | Medium |
 
 |  1038  | Binary Search Tree to Greater Sum Tree | Medium |
 | 1079 | Letter Tile Possibilities | Medium |
