@@ -30,6 +30,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 771 | Jewels and Stones | Easy |
 | 804 | Unique Morse Code Words | Easy |
 | 811 | Subdomain Visit Count | Easy |
+| 821 | Shortest Distance to a Character | Easy |
 | 832 | Flipping an Image | Easy |
 | 876 | Middle of the Linked List | Easy |
 | 852 | Peak Index in a Mountain Array | Easy |
@@ -50,6 +51,8 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 1002  | Find Common Characters | Easy |
 | 1021  | Remove Outermost Parentheses | Easy |
 | 1025  | Divisor Game | Easy |
+| 1030  | Matrix Cells in Distance Order | Easy |
+| 1047  | Remove All Adjacent Duplicates In String | Easy |
 | 1051  | Height Checker | Easy |
 | 1078  | Occurrences After Bigram | Easy |
 | 1108  | Defanging an IP Address | Easy |
@@ -70,6 +73,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 |  797 |   All Paths From Source to Target  | Medium |
 | 807  | Max Increase to Keep City Skyline  | Medium |
 | 814  |  Binary Tree Pruning | Medium |
+| 885  | Spiral Matrix III | Medium |
 | 861  |  Score After Flipping Matrix | Medium |
 | 890  | Find and Replace Pattern  | Medium |
 | 894  | All Possible Full Binary Trees  | Medium |
@@ -77,6 +81,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 950  | Reveal Cards In Increasing Order  | Medium |
 | 951  | Flip Equivalent Binary Trees  | Medium |
 | 979  | Distribute Coins in Binary Tree  | Medium |
+| 986  | Interval List Intersections  | Medium |
 |  1008  | Construct Binary Search Tree from Preorder Traversal | Medium |
 |  1038  | Binary Search Tree to Greater Sum Tree | Medium |
 | 1079 | Letter Tile Possibilities | Medium |
