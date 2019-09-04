@@ -25,6 +25,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 |  617 |  Merge Two Binary Trees | Easy |
 |  628 |   Maximum Product of Three Numbers | Easy |
 |  657  | Robot Return to Origin | Easy |
+|  669  | Trim a Binary Search Tree | Easy |
 |  682 |  Baseball Game | Easy |
 | 700 | Search in a Binary Search Tree | Easy |
 | 709 | To Lower Case | Easy |
@@ -41,6 +42,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 872 | Leaf-Similar Trees | Easy |
 | 876 | Middle of the Linked List | Easy |
 | 883 | Projection Area of 3D Shapes | Easy |
+| 884 | Uncommon Words from Two Sentences| Easy |
 | 893 | Groups of Special-Equivalent Strings | Easy |
 | 897 | Increasing Order Search Tree | Easy |
 | 905  | Sort Array By Parity | Easy |
@@ -93,8 +95,10 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 921  | Minimum Add to Make Parentheses Valid  | Medium |
 | 950  | Reveal Cards In Increasing Order  | Medium |
 | 951  | Flip Equivalent Binary Trees  | Medium |
+| 973  | K Closest Points to Origin  | Medium |
 | 979  | Distribute Coins in Binary Tree  | Medium |
 | 986  | Interval List Intersections  | Medium |
+| 998  | Maximum Binary Tree II | Medium |
 |  1008  | Construct Binary Search Tree from Preorder Traversal | Medium |
 |  1038  | Binary Search Tree to Greater Sum Tree | Medium |
 |  1043  | Partition Array for Maximum Sum | Medium |
