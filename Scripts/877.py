@@ -48,4 +48,4 @@ class Solution(object):
             return dp[i][j]
 
 
-        return ans(0, l-1 ) > 0
+        return ans(0, l-1 ) > 0\

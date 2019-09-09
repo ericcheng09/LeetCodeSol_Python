@@ -10,9 +10,11 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 217 | Contains Duplicate  | Easy |
 | 344 |  Reverse String  | Easy |
 | 412 | Fizz Buzz | Easy |
+| 429 | N-ary Tree Level Order Traversal | Easy |
 | 461 | Hamming Distance | Easy |
 | 463 | Island Perimeter  | Easy |
 | 476  | Number Complement | Easy |
+| 496  | Next Greater Element I | Easy |
 |  500  | Keyboard Row | Easy |
 |  507  | Perfect Number | Easy |
 |  509  | Fibonacci Number | Easy |
@@ -30,6 +32,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 700 | Search in a Binary Search Tree | Easy |
 | 709 | To Lower Case | Easy |
 | 728   | Self Dividing Numbers | Easy |
+| 762   | Prime Number of Set Bits in Binary Representation | Easy |
 | 766   | Toeplitz Matrix | Easy |
 | 771 | Jewels and Stones | Easy |
 | 804 | Unique Morse Code Words | Easy |
@@ -66,6 +69,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 1047  | Remove All Adjacent Duplicates In String | Easy |
 | 1051  | Height Checker | Easy |
 | 1078  | Occurrences After Bigram | Easy |
+| 1103  |  Distribute Candies to People | Easy |
 | 1108  | Defanging an IP Address | Easy |
 | 1122  | Relative Sort Array | Easy |
 | 1160  | Find Words That Can Be Formed by Characters | Easy |
@@ -89,6 +93,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 877  | Stone Game | Medium |
 | 885  | Spiral Matrix III | Medium |
 | 861  |  Score After Flipping Matrix | Medium |
+| 889  | Construct Binary Tree from Preorder and Postorder Traversal  | Medium |
 | 890  | Find and Replace Pattern  | Medium |
 | 894  | All Possible Full Binary Trees  | Medium |
 | 912  | Sort an Array | Medium |
