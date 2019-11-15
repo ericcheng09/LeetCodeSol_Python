@@ -8,6 +8,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 104 | Maximum Depth of Binary Tree | Easy |
 | 136 | Single Number | Easy |
 | 217 | Contains Duplicate  | Easy |
+| 226 | Invert Binary Tree | Easy |
 | 344 |  Reverse String  | Easy |
 | 412 | Fizz Buzz | Easy |
 | 429 | N-ary Tree Level Order Traversal | Easy |
@@ -21,11 +22,13 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 557  | Reverse Words in a String III | Easy |
 | 559  | Maximum Depth of N-ary Tree | Easy |
 | 561 |  Array Partition I | Easy |
+| 575 | Distribute Candies | Easy |
 | 589  | N-ary Tree Preorder Traversal | Easy |
 | 590  | N-ary Tree Postorder Traversal | Easy |
 | 595|  Big Countries  | Easy |
 |  617 |  Merge Two Binary Trees | Easy |
 |  628 |   Maximum Product of Three Numbers | Easy |
+|  637 | Average of Levels in Binary Tree | Easy |
 |  657  | Robot Return to Origin | Easy |
 |  669  | Trim a Binary Search Tree | Easy |
 |  682 |  Baseball Game | Easy |
@@ -63,6 +66,8 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 999  | Available Captures for Rook | Easy |
 | 1002  | Find Common Characters | Easy |
 | 1021  | Remove Outermost Parentheses | Easy |
+| 1022  | Sum of Root To Leaf Binary Numbers
+ | Easy |
 | 1025  | Divisor Game | Easy |
 | 1030  | Matrix Cells in Distance Order | Easy |
 | 1046  | Last Stone Weight | Easy |
@@ -74,11 +79,15 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 1122  | Relative Sort Array | Easy |
 | 1160  | Find Words That Can Be Formed by Characters | Easy |
 | 1170  | Compare Strings by Frequency of the Smallest Character | Easy |
+| 1237  | Find Positive Integer Solution for a Given Equation | Easy |
 | | | 
+| 46 | Permutations | Medium |
 | 137 | Single Number II | Medium |
+| 240 | Search a 2D Matrix II | Medium |
 | 260 | Single Number III | Medium |
 | 338 | Counting Bits | Medium |
 | 419 |  Battleships in a Board | Medium |
+| 442 |  Find All Duplicates in an Array| Medium |
 |  525 | Contiguous Array | Medium |
 |  535 | Encode and Decode TinyURL | Medium |
 |  537 |  Complex Number Multiplication | Medium |
@@ -112,6 +121,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 |  1110  | Delete Nodes And Return Forest | Medium |
 | 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings  | Medium |
 | 1123 |  Lowest Common Ancestor of Deepest Leaves | Medium |
+| 1140  | Stone Game II | Medium |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium |
 | | | 
 | 980 | Unique Paths III | Hard |
