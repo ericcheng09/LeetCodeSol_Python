@@ -38,10 +38,12 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 762   | Prime Number of Set Bits in Binary Representation | Easy |
 | 766   | Toeplitz Matrix | Easy |
 | 771 | Jewels and Stones | Easy |
+| 784 |  Letter Case Permutation | Easy |
 | 804 | Unique Morse Code Words | Easy |
 | 806 | Number of Lines To Write String | Easy |
 | 811 | Subdomain Visit Count | Easy |
 | 821 | Shortest Distance to a Character | Easy |
+| 824 | Goat Latin | Easy |
 | 832 | Flipping an Image | Easy |
 | 852 | Peak Index in a Mountain Array | Easy |
 | 867 | Transpose Matrix | Easy |
@@ -79,6 +81,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 1122  | Relative Sort Array | Easy |
 | 1160  | Find Words That Can Be Formed by Characters | Easy |
 | 1170  | Compare Strings by Frequency of the Smallest Character | Easy |
+| 1200  | Minimum Absolute Difference | Easy |
 | 1237  | Find Positive Integer Solution for a Given Equation | Easy |
 | | | 
 | 46 | Permutations | Medium |
@@ -88,10 +91,12 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 338 | Counting Bits | Medium |
 | 419 |  Battleships in a Board | Medium |
 | 442 |  Find All Duplicates in an Array| Medium |
+| 513 | Find Bottom Left Tree Value | Medium |
 |  525 | Contiguous Array | Medium |
 |  535 | Encode and Decode TinyURL | Medium |
 |  537 |  Complex Number Multiplication | Medium |
 | 654 | Maximum Binary Tree | Medium |
+| 695 | Max Area of Island | Medium |
 |  701 |  Insert into a Binary Search Tree | Medium |
 |  739|  Daily Temperatures  | Medium |
 |  763|   Partition Labels  | Medium |
@@ -107,6 +112,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 894  | All Possible Full Binary Trees  | Medium |
 | 912  | Sort an Array | Medium |
 | 921  | Minimum Add to Make Parentheses Valid  | Medium |
+| 931  | Minimum Falling Path Sum  | Medium |
 | 950  | Reveal Cards In Increasing Order  | Medium |
 | 951  | Flip Equivalent Binary Trees  | Medium |
 | 973  | K Closest Points to Origin  | Medium |
@@ -123,6 +129,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 1123 |  Lowest Common Ancestor of Deepest Leaves | Medium |
 | 1140  | Stone Game II | Medium |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium |
+| 1254 | Number of Closed Islands | Medium |
 | | | 
 | 980 | Unique Paths III | Hard |
 |  1028  |  Recover a Tree From Preorder Traversal | Hard |
