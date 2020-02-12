@@ -50,10 +50,12 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 832 | Flipping an Image | Easy |
 | 852 | Peak Index in a Mountain Array | Easy |
 | 867 | Transpose Matrix | Easy |
+| 868 | Binary Gap | Easy |
 | 872 | Leaf-Similar Trees | Easy |
 | 876 | Middle of the Linked List | Easy |
 | 883 | Projection Area of 3D Shapes | Easy |
 | 884 | Uncommon Words from Two Sentences| Easy |
+| 888 | Fair Candy Swap | Easy |
 | 893 | Groups of Special-Equivalent Strings | Easy |
 | 897 | Increasing Order Search Tree | Easy |
 | 905  | Sort Array By Parity | Easy |
@@ -89,6 +91,8 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 1200  | Minimum Absolute Difference | Easy |
 | 1260  | Shift 2D Grid | Easy |
 | 1237  | Find Positive Integer Solution for a Given Equation | Easy |
+| 1287  | Element Appearing More Than 25% In Sorted Array | Easy |
+
 | | | 
 | 46 | Permutations | Medium |
 | 94 | Binary Tree Inorder Traversal | Medium |
@@ -151,6 +155,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium |
 | 1249 | Minimum Remove to Make Valid Parentheses | Medium |
 | 1254 | Number of Closed Islands | Medium |
+| 1247 | Minimum Swaps to Make Strings Equal | Medium |
 | 1267 | Count Servers that Communicate | Medium |
 | | | 
 | 980 | Unique Paths III | Hard |
