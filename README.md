@@ -92,7 +92,6 @@ This repository includes the solutions (In Python) for LeeCode problems
 | 1260  | Shift 2D Grid | Easy |
 | 1237  | Find Positive Integer Solution for a Given Equation | Easy |
 | 1287  | Element Appearing More Than 25% In Sorted Array | Easy |
-
 | | | 
 | 46 | Permutations | Medium |
 | 94 | Binary Tree Inorder Traversal | Medium |
@@ -110,6 +109,7 @@ This repository includes the solutions (In Python) for LeeCode problems
 |  535 | Encode and Decode TinyURL | Medium |
 |  537 |  Complex Number Multiplication | Medium |
 |  540 | Single Element in a Sorted Array | Medium |
+|  547 |  Friend Circles | Medium |
 |  560 |  *Subarray Sum Equals K | Medium |
 | 654 | Maximum Binary Tree | Medium |
 | 695 | Max Area of Island | Medium |
